@@ -1,0 +1,7 @@
+<Response> 
+  <Say>
+    Please say something for longer than 2 sec. 
+  </Say> 
+  <Record transcribe="true"/> 
+  <Say>Thank you! </Say>  
+</Response>
